@@ -1,0 +1,227 @@
+,zipcode,community,median_income,population,starbucks_count
+0,90001,"Los Angeles (South Los Angeles), Florence-Graham","$35,660","58,738",2
+1,90004,"Los Angeles (Hancock Park, Rampart Village, Virgil Village, Wilshire Center, Windsor Square)","$46,581","62,733",1
+2,90007,"Los Angeles (Southeast Los Angeles, Univerity Park)","$23,070","41,221",3
+3,90010,"Los Angeles (Hancock Park, Wilshire Center, Windsor Square)","$47,115","3,759",3
+4,90012,"Los Angeles (Downtown Civic Center, Chinatown, Arts District, Bunker Hill, Historic Core, Little Tokyo)","$38,786","33,783",7
+5,90013,"Los Angeles (Downtown Central, Downtown Fashion District)","$22,808","11,957",2
+6,90014,"Los Angeles (Downtown Historic Core, Arts District)","$37,619","7,408",2
+7,90015,"Los Angeles (Dowtown Fashion District, South Park-South)","$32,979","20,187",5
+8,90016,Los Angeles (West Adams),"$43,443","46,303",4
+9,90017,"Los Angeles (Downtown Bunker Hill, City West, South Park-North)","$28,638","26,390",4
+10,90018,"Los Angeles (Jefferson Park, Leimert Park)","$37,341","52,287",1
+11,90019,"Los Angeles (Arlington Heights, Country Club Park, Mid-City)","$50,671","67,415",2
+12,90020,"Los Angeles (Hancock Park, Western Wilton, Wilshire Center, Windsor Square)","$42,407","39,191",1
+13,90021,"Los Angeles (Downtown Fashion District, Downtown Southeast)","$12,864","3,158",1
+14,90022,East Los Angeles,"$41,276","67,446",1
+15,90023,"Commerce, East Los Angeles","$40,225","47,229",1
+16,90024,Los Angeles (Westwood),"$59,418","49,718",4
+17,90025,"Los Angeles (Sawtelle, West Los Angeles)","$78,713","47,453",4
+18,90027,"Los Angeles (Griffith Park, Hollywood, Los Feliz)","$58,344","45,616",3
+19,90028,Los Angeles (Hollywood),"$40,068","31,054",9
+20,90032,"Los Angeles (El Sereno, Monterey Hills)","$47,370","47,766",1
+21,90033,Los Angeles (Boyle Heights),"$31,683","48,841",1
+22,90034,Los Angeles (Palms),"$65,572","56,070",3
+23,90036,"Los Angeles (Fairfax, Melrose, Miracle Mile, Park La Brea, Wilshire-La Brea)","$74,279","38,116",9
+24,90038,Los Angeles (Hollywood),"$36,996","27,957",2
+25,90039,"Los Angeles (Atwater Village, Elysian Valley, Silver Lake)","$81,394","29,092",3
+26,90040,"Commerce, City of","$43,585","12,925",3
+27,90041,Los Angeles (Eagle Rock),"$73,250","28,651",4
+28,90042,Los Angeles (Highland Park),"$55,596","63,788",1
+29,90045,"Los Angeles (Los Angeles International Airport, Westchester)","$90,399","41,420",21
+30,90046,"Los Angeles (Hollywood), West Hollywood","$65,990","51,615",6
+31,90047,Los Angeles (South Los Angeles),"$42,551","48,491",1
+32,90048,"Los Angeles (Mid-City West), West Hollywood","$85,396","22,860",5
+33,90049,"Los Angeles (Bel Air Estates, Brentwood)","$121,671","36,362",2
+34,90057,Los Angeles (Westlake),"$31,337","49,389",1
+35,90063,"City Terrace, Los Angeles (Boyle Heights)","$44,121","53,556",1
+36,90064,"Los Angeles (Cheviot Hills, Rancho Park)","$92,194","26,007",7
+37,90066,"Culver City, Los Angeles (Mar Vista)","$75,209","59,747",1
+38,90067,Los Angeles (Century City),"$123,889","2,235",3
+39,90068,Los Angeles (Hollywood),"$82,718","21,726",2
+40,90069,"Los Angeles (Hollywood, Melrose), West Hollywood","$86,403","20,401",4
+41,90077,"Los Angeles (Bel Air Estates, Beverly Glen)","$184,722","8,936",1
+42,90094,Los Angeles (Playa Vista),"$136,250","8,568",1
+43,90201,"Bell, Bell Gardens, Cudahy","$39,498","102,878",2
+44,90210,Beverly Hills,"$149,732","20,016",2
+45,90211,Beverly Hills,"$71,402","8,019",2
+46,90212,Beverly Hills,"$103,032","13,207",1
+47,90220,"Compton, Rancho Dominguez","$54,014","51,713",3
+48,90222,"Compton, Rosewood, Willowbrook","$40,719","32,585",1
+49,90230,Culver City,"$79,242","32,657",6
+50,90232,Culver City,"$82,254","14,865",1
+51,90240,Downey,"$81,205","26,339",1
+52,90241,Downey,"$64,222","44,097",2
+53,90242,Downey,"$62,402","42,922",2
+54,90245,El Segundo,"$92,942","16,929",7
+55,90247,Gardena,"$46,076","47,969",3
+56,90248,Gardena,"$58,703","10,899",1
+57,90250,Hawthorne (Holly Park),"$49,417","97,371",6
+58,90254,Hermosa Beach,"$124,849","19,750",3
+59,90255,"Huntington Park, Walnut Park","$40,325","75,636",2
+60,90260,Lawndale,"$58,792","35,614",1
+61,90262,Lynwood,"$45,897","71,306",2
+62,90265,Malibu,"$137,672","18,119",4
+63,90266,Manhattan Beach,"$148,899","35,698",3
+64,90272,"Los Angeles (Castellemare, Pacific Highlands, Pacific Palisades, Topanga State Park)","$180,962","22,927",3
+65,90274,"Palos Verdes Estates, Rolling Hills, Rolling Hills Estates","$158,497","25,374",3
+66,90275,"Palos Verdes Estates, Rancho Palos Verdes, Rolling Hills Estates","$124,384","42,606",2
+67,90277,"Redondo Beach, Torrance","$101,532","34,922",2
+68,90278,"Redondo Beach, Torrance","$107,242","40,808",5
+69,90280,South Gate,"$47,281","95,420",3
+70,90291,Los Angeles (Venice),"$88,078","27,170",1
+71,90292,"Los Angeles (Marina Peninsula), Marina del Rey","$103,948","22,328",6
+72,90301,Inglewood,"$42,100","37,518",2
+73,90302,Inglewood,"$43,788","30,892",1
+74,90303,Inglewood,"$44,470","24,658",2
+75,90401,Santa Monica (Downtown),"$71,154","7,485",6
+76,90403,Santa Monica,"$92,096","24,764",7
+77,90404,Santa Monica,"$73,601","22,586",3
+78,90405,"Santa Monica (Ocean Park, Santa Monica Airport, Sunpark)","$88,445","28,305",5
+79,90501,Torrance,"$64,995","43,008",2
+80,90502,"Torrance, West Carson","$68,676","18,010",1
+81,90503,Torrance,"$84,615","45,349",6
+82,90504,Torrance,"$79,352","33,422",2
+83,90505,Torrance,"$91,569","37,368",7
+84,90601,"City of Industry, Whittier","$69,740","34,025",2
+85,90603,Whittier,"$95,354","20,697",2
+86,90605,"South Whittier, Whittier","$66,963","41,818",2
+87,90606,"Los Nietos, West Whittier","$66,566","32,599",3
+88,90630,Hawaiian Gardens (overlaps Orange County),"$90,165","49,249",4
+89,90631,La Habra Heights,"$76,910","69,579",5
+90,90638,La Mirada,"$86,141","49,797",3
+91,90640,Montebello,"$50,326","63,547",3
+92,90650,Norwalk,"$63,669","106,404",8
+93,90660,Pico Rivera,"$61,524","63,694",3
+94,90670,Santa Fe Springs,"$66,509","16,642",4
+95,90701,Artesia,"$62,863","16,912",1
+96,90703,Cerritos,"$98,175","50,877",7
+97,90706,Bellflower,"$52,944","77,852",2
+98,90710,Los Angeles (Harbor City),"$57,968","28,667",3
+99,90712,Lakewood,"$83,627","31,471",2
+100,90713,Lakewood,"$94,110","28,927",4
+101,90716,Hawaiian Gardens,"$38,500","14,409",1
+102,90723,Paramount,"$49,064","55,020",3
+103,90731,"Los Angeles (San Pedro, Terminal Island)","$49,464","61,789",3
+104,90732,"Los Angeles (San Pedro), Rancho Palos Verdes","$89,440","22,408",3
+105,90740,Long Beach (overlaps Orange County),"$65,299","24,443",5
+106,90745,Carson,"$73,053","57,219",3
+107,90746,Carson,"$81,988","26,852",4
+108,90755,Signal Hill,"$75,828","11,581",3
+109,90802,Long Beach,"$51,302","40,226",7
+110,90803,"Long Beach (Belmont Shore, Marina, Naples)","$83,861","32,116",5
+111,90804,Long Beach (East Long Beach),"$47,437","40,225",3
+112,90805,Long Beach (North Long Beach),"$47,981","96,069",1
+113,90806,Long Beach,"$50,615","42,587",1
+114,90807,Long Beach (Bixby Knolls),"$75,057","32,395",2
+115,90808,Long Beach,"$102,563","38,487",3
+116,90815,Long Beach,"$84,714","40,359",6
+117,91006,Arcadia,"$99,360","33,200",2
+118,91007,Arcadia,"$79,964","34,357",4
+119,91010,"Azusa, Bradbury, Duarte, Irwindale, Monrovia","$68,599","26,265",3
+120,91011,La Cañada Flintridge,"$160,288","20,499",2
+121,91016,Monrovia,"$71,341","42,013",4
+122,91020,Montrose,"$69,150","8,551",1
+123,91024,Sierra Madre,"$98,547","11,061",1
+124,91030,South Pasadena,"$92,847","25,940",4
+125,91040,"Los Angeles (Shadow Hills, Sunland)","$77,910","20,175",1
+126,91042,Los Angeles (Tujunga),"$53,412","26,767",2
+127,91101,Pasadena,"$64,223","20,719",6
+128,91103,Pasadena,"$69,334","28,435",1
+129,91104,Pasadena,"$72,189","39,178",3
+130,91105,Pasadena,"$112,765","11,907",4
+131,91106,Pasadena,"$77,380","25,479",2
+132,91107,Pasadena,"$92,266","32,199",6
+133,91108,San Marino,"$152,553","13,769",1
+134,91201,Glendale,"$56,580","23,466",3
+135,91202,Glendale,"$66,657","23,182",2
+136,91203,Glendale,"$51,360","14,393",2
+137,91204,Glendale (Tropico),"$44,304","18,318",4
+138,91205,Glendale (Tropico),"$38,730","37,514",1
+139,91206,Glendale,"$57,379","34,938",2
+140,91210,Glendale (Glendale Galleria PO Boxes),"$155,833",835,1
+141,91214,"Glendale, La Crescenta, Montrose","$94,322","30,991",3
+142,91301,"Agoura Hills, Cornell","$117,615","26,028",2
+143,91302,"Calabasas, Hidden Hills, Monte Nido","$122,967","26,500",3
+144,91303,Los Angeles (Canoga Park),"$51,486","30,380",4
+145,91304,"Los Angeles (Canoga Park, West Hills), Box Canyon","$64,367","53,627",1
+146,91307,"Los Angeles (West Hills), Bell Canyon","$111,043","27,233",5
+147,91311,Los Angeles (Chatsworth),"$82,738","40,064",4
+148,91316,Los Angeles (Encino),"$68,720","30,888",2
+149,91321,Santa Clarita (Newhall),"$66,178","34,510",2
+150,91324,Los Angeles (Northridge),"$68,477","30,101",5
+151,91325,Los Angeles (Northridge),"$65,129","34,240",1
+152,91326,"Los Angeles (Northridge, Porter Ranch)","$105,611","36,804",1
+153,91335,Los Angeles (Reseda),"$55,580","79,687",2
+154,91340,"San Fernando, Los Angeles (Mission Hills, Pacoima)","$54,703","35,771",1
+155,91342,"Los Angeles (Lake View Terrace, Sylmar), Kagel Canyon","$68,600","96,177",1
+156,91343,Los Angeles (North Hills),"$61,692","65,964",2
+157,91344,Los Angeles (Granada Hills),"$86,460","53,453",6
+158,91345,Los Angeles (Mission Hills),"$74,193","19,022",1
+159,91350,"Bouquet Canyon, Green Valley, Mint Canyon, Santa Clarita (Canyon County)","$103,837","37,149",6
+160,91351,Santa Clarita (Canyon Country),"$76,706","32,661",1
+161,91354,Santa Clarita (Valencia),"$120,560","31,027",1
+162,91355,Santa Clarita (Valencia),"$92,066","31,645",11
+163,91356,Los Angeles (Tarzana),"$71,654","30,346",3
+164,91361,Westlake Village,"$116,114","20,826",1
+165,91362,Westlake Village,"$108,167","36,071",5
+166,91364,Los Angeles (Woodland Hills),"$100,323","27,031",5
+167,91367,Los Angeles (Woodland Hills),"$84,937","43,370",5
+168,91381,Stevenson Ranch,"$121,719","20,530",2
+169,91384,"Castaic, Val Verde","$106,431","29,283",2
+170,91387,"Santa Clarita (Canyon Country), Fair Oaks Ranch, Mint Canyon","$87,346","43,319",3
+171,91401,"Los Angeles (Valley Glen, Van Nuys)","$51,784","40,995",2
+172,91402,Los Angeles (Panorama City),"$41,669","71,317",1
+173,91403,"Los Angeles (Sherman Oaks, Van Nuys)","$89,552","24,677",4
+174,91405,Los Angeles (Valley Glen),"$41,283","54,770",2
+175,91406,"Los Angeles (Lake Balboa, Van Nuys)","$51,564","56,200",4
+176,91411,Los Angeles (Van Nuys),"$50,332","25,210",1
+177,91423,"Los Angeles (Sherman Oaks, Van Nuys)","$82,554","33,641",3
+178,91436,Los Angeles (Encino),"$159,965","14,794",1
+179,91502,Burbank,"$41,784","11,645",3
+180,91504,Burbank (Glenoaks),"$73,501","26,558",3
+181,91505,Burbank,"$82,630","30,997",8
+182,91506,Burbank,"$72,681","18,245",4
+183,91601,"Los Angeles (North Hollywood, Toluca Terrace)","$50,832","38,379",2
+184,91602,"Los Angeles (North Hollywood, Studio City, Toluca Lake, West Toluca Lake)","$78,526","18,944",1
+185,91604,"Los Angeles (North Hollywood, Studio City)","$99,745","30,642",4
+186,91605,Los Angeles (North Hollywood),"$43,004","52,386",1
+187,91606,"Los Angeles (North Hollywood, Valley Glen)","$44,773","44,352",2
+188,91607,"Los Angeles (North Hollywood, Sherman Village, Valley Glen, Valley Village)","$60,772","31,383",2
+189,91702,"Azusa, Irwindale","$59,104","61,739",5
+190,91706,"Baldwin Park, Irwindale","$57,240","77,819",6
+191,91711,Claremont,"$97,002","36,933",4
+192,91722,Covina,"$70,632","36,557",1
+193,91723,Covina,"$63,270","20,193",2
+194,91724,"Charter Oak, Covina","$82,821","25,755",1
+195,91731,El Monte,"$36,344","30,063",3
+196,91732,El Monte,"$48,254","63,557",1
+197,91733,"El Monte, South El Monte","$42,758","44,989",1
+198,91740,Glendora,"$76,825","26,067",2
+199,91741,Glendora,"$99,474","26,610",2
+200,91744,"City of Industry, La Puente, Valinda","$63,318","86,982",1
+201,91745,Hacienda Heights,"$81,397","54,166",2
+202,91746,"Avocado Heights, Bassett, West Puente Valley","$64,607","30,640",1
+203,91748,"City of Industry, Rowland Heights","$64,983","47,114",4
+204,91750,La Verne,"$83,743","34,017",4
+205,91754,Monterey Park,"$58,056","33,114",1
+206,91765,Diamond Bar,"$95,285","47,398",3
+207,91766,Pomona (Phillips Ranch),"$54,163","72,787",4
+208,91767,Pomona,"$54,157","49,492",1
+209,91768,Pomona,"$50,044","36,122",4
+210,91770,Rosemead,"$51,383","63,981",3
+211,91773,San Dimas,"$81,020","34,555",4
+212,91775,San Gabriel,"$81,250","25,156",1
+213,91780,Temple City,"$67,910","35,184",1
+214,91789,"City of Industry, Diamond Bar, Walnut","$95,081","44,115",2
+215,91790,West Covina,"$74,965","45,958",1
+216,91791,West Covina,"$80,020","33,953",2
+217,91792,West Covina,"$70,932","29,787",2
+218,91801,Alhambra,"$53,644","54,928",3
+219,91803,Alhambra,"$61,424","30,137",3
+220,93534,Lancaster,"$37,883","39,166",2
+221,93535,"Hi Vista, Lake Los Angeles, Lancaster, Roosevelt Corner, Wilsona Gardens","$42,978","73,728",1
+222,93536,"Del Sur, Fairmont, Lancaster, Metler Valley, Neenach, Quartz Hill","$72,634","71,303",3
+223,93550,"Lake Los Angeles, Palmdale","$39,279","75,774",1
+224,93551,"City Ranch, Leona Valley, Palmdale","$87,628","51,896",5
+225,93552,Palmdale,"$60,612","41,320",3
